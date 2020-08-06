@@ -7,7 +7,7 @@
  </abc>
 </h3> 
 
-   ####      ![](https://img.shields.io/badge/Web%20Design-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C-%7C-yellow) ![](https://img.shields.io/badge/C++-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Blender-%7C-yellowgreen) ![](https://img.shields.io/badge/Figma-%7C-orange) ![](https://img.shields.io/badge/Photoshop-%7C-blue)
+   ####      ![](https://img.shields.io/badge/Web%20Design-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/HTML-%7C-yellow) ![](https://img.shields.io/badge/CSS-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Premier Pro-%7C-yellowgreen) ![](https://img.shields.io/badge/Figma-%7C-orange) ![](https://img.shields.io/badge/Photoshop-%7C-blue)
 
 - :woman_technologist: Co-Founder of EDC KMCTCE
 - :telescope: I'm currently exploring Cloud and Game Development
