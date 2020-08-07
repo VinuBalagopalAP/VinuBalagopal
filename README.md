@@ -13,8 +13,8 @@
 - :telescope: I'm currently exploring Cloud and Game Development
 - :hourglass_flowing_sand: Experimenting with HTML, CSS and learning Javascript
 - :microscope: Always ready to collaborate for Dev Experiments
-- :dart: 2020 Goals: Start explore and learn more:fire: 
-- :Passionate in Community Development!
+- :dart: 2020 Goals: Explore and learn more:fire: 
+- :woman_artist: Passionate in Community Development!
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - :mailbox: Reach out to me at my social media handles: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-vinubalagopalap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinubalagopalap/)](https://www.linkedin.com/in/vinubalagopalap/) [![Twitter Badge](https://img.shields.io/badge/-@vinubalagopalap?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/balagopalvinu)](https://twitter.com/balagopalvinu)[![Instagram Badge](https://img.shields.io/badge/-@vinubalagopalap-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/vinubalagopalap)](https://www.instagram.com/vinubalagopalap)
+[![Linkedin Badge](https://img.shields.io/badge/-vinubalagopalap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinubalagopalap/)](https://www.linkedin.com/in/vinubalagopalap/) [![Twitter Badge](https://img.shields.io/badge/-@vinubalagopalap-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/balagopalvinu)](https://twitter.com/balagopalvinu)[![Instagram Badge](https://img.shields.io/badge/-@vinubalagopalap-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/vinubalagopalap)](https://www.instagram.com/vinubalagopalap)
