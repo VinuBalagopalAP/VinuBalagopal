@@ -9,7 +9,7 @@
 
    ####      ![](https://img.shields.io/badge/Web%20Design-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/HTML-%7C-yellow) ![](https://img.shields.io/badge/CSS-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Premier-Pro-%7C-yellowgreen) ![](https://img.shields.io/badge/Figma-%7C-orange) ![](https://img.shields.io/badge/Illustrator-%7C-blue)
 
-- :woman_technologist: Co-Founder of EDC KMCTCE
+- :woman_technologist: Co-Founder of IEDC KMCTCE
 - :telescope: I'm currently exploring Cloud and Game Development
 - :hourglass_flowing_sand: Experimenting with HTML, CSS and learning Javascript
 - :microscope: Always ready to collaborate for Dev Experiments
