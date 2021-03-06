@@ -1,7 +1,7 @@
 <h3 align="left">
  <abc>
   <br>👋 Hi, I'm Vinu Balagopal A P.<br>
-  <br> I'm a Graphics,UI/UX,Web Designer. <br>
+  <br> I'm a Flutter Dev. <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
